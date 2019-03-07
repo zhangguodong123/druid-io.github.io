@@ -41,6 +41,10 @@ Atomx is a new media exchange that connects networks, DSPs, SSPs, and other part
 
 [Bannerflow](https://www.bannerflow.com) is the leading display ad production platform. We use Druid to power our customer facing analytics system and for internal reporting, monitoring and ad-hoc data exploration.
 
+## BitAuto
+Founded in 2000, yiche.com, adhering to the concept of "making life easier for cars", has become the most leading automotive professional media group in China, providing localized service support based on regional market for automobile enterprises and users.
+we use Druid to analyze and process AD data
+
 ## Billy Mobile
 
 Billy Mobile is a mobile advertising platform, excelling in the performance-based optimisation segment. We use Druid to power our real-time analytics dashboards, in which our publishers, advertisers and staff can get insights on how their campaigns, offers and traffic are performing, with sub-second query time and minute granularity . We are using a lambda-architecture aproach, ingesting the traffic in real time with Tranquility and Storm, and a batch layer via a tight integration with Hive and Hadoop, our Master Data Set. This way we can provide crucial fast access to data, while making sure to have the right numbers.
